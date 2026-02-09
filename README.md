@@ -4,7 +4,7 @@ A professional, production-ready Next.js template focused on developer experienc
 
 ## ✨ Features
 
-* **Framework**: [Next.js 16 (Free Tier)](https://nextjs.org/) with App Router.
+* **Framework**: [Next.js](https://nextjs.org/) with App Router.
 * **Language**: TypeScript for static typing.
 * **Database**: [Prisma](https://www.prisma.io/) ORM (PostgreSQL/SQLite ready).
 * **Styling**: [Tailwind CSS](https://tailwindcss.com/) with PostCSS.
